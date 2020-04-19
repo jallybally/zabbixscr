@@ -54,6 +54,8 @@
     <Compile Include="Auxiliary.cs" />
     <Compile Include="Catalogs.cs" />
     <Compile Include="Data\ListDat.cs" />
+    <Compile Include="Data\TempSysInfo.cs" />
+    <Compile Include="SystemInfo.cs" />
     <Compile Include="Data\Temp.cs" />
     <Compile Include="PlaceCalculation.cs" />
     <Compile Include="Program.cs" />

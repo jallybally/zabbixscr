@@ -10,3 +10,10 @@ C:\Users\tera\Source\Repos\jallybally\zabbixscr\zabbixscr\bin\Debug\zabbixscr.pd
 C:\Users\tera\Source\Repos\jallybally\zabbixscr\zabbixscr\obj\Debug\zabbixscr.csprojAssemblyReference.cache
 C:\Users\tera\Source\Repos\jallybally\zabbixscr\zabbixscr\obj\Debug\zabbixscr.exe
 C:\Users\tera\Source\Repos\jallybally\zabbixscr\zabbixscr\obj\Debug\zabbixscr.pdb
+D:\Visual Studio\zabbixscr\zabbixscr\bin\Debug\zabbixscr.exe.config
+D:\Visual Studio\zabbixscr\zabbixscr\bin\Debug\zabbixscr.exe
+D:\Visual Studio\zabbixscr\zabbixscr\bin\Debug\zabbixscr.pdb
+D:\Visual Studio\zabbixscr\zabbixscr\obj\Debug\zabbixscr.csprojAssemblyReference.cache
+D:\Visual Studio\zabbixscr\zabbixscr\obj\Debug\zabbixscr.csproj.CoreCompileInputs.cache
+D:\Visual Studio\zabbixscr\zabbixscr\obj\Debug\zabbixscr.exe
+D:\Visual Studio\zabbixscr\zabbixscr\obj\Debug\zabbixscr.pdb

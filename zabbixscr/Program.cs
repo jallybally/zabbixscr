@@ -7,8 +7,14 @@ namespace zabbixscr
     {
         static void Main(string[] args)
         {
-            try
-            {
+            //try
+            //{
+                //вывод инфо о системе в xml
+                if (args.Length == 1 && args[0] == "SystemInfo")
+                {
+                    SystemInfo.GetSystemInfo();
+                }
+                //
                 if (args.Length == 1 && args[0] == "UserPersonalFolder")
                 {
                     Catalogs catalogs = new Catalogs();
@@ -226,11 +232,11 @@ namespace zabbixscr
                 {
                     Console.WriteLine(WMI.DomainRole(ref Data.Temp.DomainRole).ToString());
                 }
-            }
-            catch
-            {
+            //}
+            //catch
+            //{
                 Console.WriteLine("101");
-            }
+            //}
         }
     }
 }
